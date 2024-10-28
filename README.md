@@ -8,6 +8,7 @@ A tela deve conter uma lista com os filmes que deverão entrar em cartaz em brev
 ## Features
 - **Interface Intuitiva:** Exibe os pôsteres dos filmes em um layout em linha e em grade.
 - **Campo de Busca:** Permite filtrar filmes por palavras-chave, facilitando a localização de títulos específicos.
+- **Tela de Lançamentos:** Permitindo mostrar filmes ordenados pela data de estreia mais próxima
 - **Filtro por Mês de Estreia**: Possibilita que o usuário veja os filmes programados para estrear em um mês específico.
 - **Destaque para Item de Pré-venda:** Realça os filmes que estão disponíveis para pré-venda, aumentando a visibilidade.
 - **Tela de Descrição do Filme:** Apresenta informações detalhadas sobre cada filme, incluindo sinopse, elenco e avaliações.
