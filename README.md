@@ -15,6 +15,8 @@ A tela deve conter uma lista com os filmes que deverão entrar em cartaz em brev
 - **Tela de Carregamento:** Exibe um indicador de carregamento enquanto as informações estão sendo recuperadas da API.
 - **Tela de Erro:** Fornece uma interface amigável para o tratamento de falhas na requisção, como falta de conexão à internet.
 - **Placeholder Image:** Para casos de falta de um poster
+
+   **Toolbar meramente ilustrativa**
   
 ## Stacks
  Este projeto foi desenvolvido com o Kotlin, integrado à API do [Ingresso.com](https://api-content.ingresso.com/v0/events/coming-soon/partnership/desafio). O aplicativo faz requisições à API para buscar as informações sobre os filmes as traz de modo intuituvo ao usuário
