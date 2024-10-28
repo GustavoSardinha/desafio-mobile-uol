@@ -16,7 +16,7 @@ class MovieListManager {
             RetrofitHelper.retrofit
         }
 
-        suspend fun loadMovies() {
+        suspend fun loadMovies() : Boolean{
             try {
                 val moviesApi = retrofit.create(MovieAPI::class.java)
                 val moviesData: Response<MovieAPIResponse> = moviesApi.loadMovies()
@@ -24,13 +24,16 @@ class MovieListManager {
                 if (moviesData.isSuccessful) {
                     moviesList = moviesData.body()?.items
                     Log.i("load_movies", "Sucesso ao carregar os dados!")
+                    return true
                 } else {
                     Log.i("load_movies", "Erro ao carregar os filmes!")
                 }
             } catch (e: Exception) {
                 e.printStackTrace()
                 Log.i("load_movies", e.toString())
+                return  false
             }
+            return false
         }
 
 
