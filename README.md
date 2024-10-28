@@ -45,3 +45,8 @@ A tela deve conter uma lista com os filmes que deverão entrar em cartaz em brev
 
 Clique no link e instale o app no seu dispostivo ou emulador Android (API 27 ou superior) : [Instalar](https://drive.google.com/file/d/1kL8op3F0di8Mpu3Vd3cspq2bcdmqfAwH/view?usp=sharing)
 
+## Agradecimentos 
+  Gostaria de expressar minha sincera gratidão pela oportunidade de participar deste desafio da UOL. Foi uma experiência enriquecedora que me permitiu aplicar e expandir meus conhecimentos em desenvolvimento mobile, além de aprofundar minha compreensão sobre integração com APIs.
+
+Agradeço também aos organizadores do desafio, que proporcionaram um ambiente desafiador e motivador. Estou ansioso para futuras oportunidades e para continuar aprimorando minhas habilidades na área. 
+
