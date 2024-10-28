@@ -39,6 +39,6 @@ A tela deve conter uma lista com os filmes que deverão entrar em cartaz em brev
 
 ## Instalação
 <br>
+
 Clique no link e instale o app no seu dispostivo ou emulador Android: [Instalar](https://drive.google.com/file/d/1kL8op3F0di8Mpu3Vd3cspq2bcdmqfAwH/view?usp=sharing)
-<br>
 
