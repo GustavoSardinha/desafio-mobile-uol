@@ -11,15 +11,15 @@ A tela deve conter uma lista com os filmes que deverão entrar em cartaz em brev
 - **Tela de Lançamentos:** Permitindo mostrar filmes ordenados pela data de estreia mais próxima
 - **Filtro por Mês de Estreia**: Possibilita que o usuário veja os filmes programados para estrear em um mês específico.
 - **Destaque para Item de Pré-venda:** Realça os filmes que estão disponíveis para pré-venda, aumentando a visibilidade.
-- **Tela de Descrição do Filme:** Apresenta informações detalhadas sobre cada filme, incluindo sinopse, elenco e avaliações.
+- **Tela de Descrição do Filme:** Apresenta informações detalhadas sobre cada filme, incluindo sinopse, título e duração.
 - **Tela de Carregamento:** Exibe um indicador de carregamento enquanto as informações estão sendo recuperadas da API.
-- **Tela de Erro:** Fornece uma interface amigável para o tratamento de falhas na requisção, como falta de conexão à internet.
+- **Tela de Erro:** Fornece uma interface amigável para o tratamento de falhas na requisição, como falta de conexão à internet.
 - **Placeholder Image:** Para casos de falta de um poster
 
    PS: **Toolbar meramente ilustrativa**
   
 ## Stacks
- Este projeto foi desenvolvido com o Kotlin, integrado à API do [Ingresso.com](https://api-content.ingresso.com/v0/events/coming-soon/partnership/desafio). O aplicativo faz requisições à API para buscar as informações sobre os filmes as traz de modo intuituvo ao usuário
+ Este projeto foi desenvolvido com o Kotlin, integrado à API do [Ingresso.com](https://api-content.ingresso.com/v0/events/coming-soon/partnership/desafio). O aplicativo faz requisições à API para buscar as informações sobre os filmes as traz de modo intuitivo ao usuário
 
 ### Dependências utlizadas:
 - **Retrofit 2.90**
