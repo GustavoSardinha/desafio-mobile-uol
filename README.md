@@ -40,7 +40,7 @@ A tela deve conter uma lista com os filmes que deverão entrar em cartaz em brev
 
 <br>
 
- **Para baixar o projeto clone este repositorio ebara no Android Studio**
+ **Para baixar o projeto clone este repositorio e abra no Android Studio**
 
 ## Instalação do executável
 <br>
